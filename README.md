@@ -5,8 +5,8 @@
 
 <div>
   <a href="https://github.com/Gutotassi">
-  <img width ="39%" src="https://github-readme-stats.vercel.app/api?username=TassiBR&show_icons=true&theme=shadow_red&include_all_commits=true&count_private=true"/>
-  <img width ="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TassiBR&theme=shadow_red&langs_count=16&layout=compact"/>
+  <img width ="39%" src="https://github-readme-stats.vercel.app/api?username=Gutotassi&show_icons=true&theme=shadow_green&include_all_commits=true&count_private=true"/>
+  <img width ="54%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutotassi&theme=shadow_green&langs_count=16&layout=compact"/>
 </div>
     
 <div style="display: inline_block"><br>
