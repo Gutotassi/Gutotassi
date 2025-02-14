@@ -1,7 +1,7 @@
 ## Olá! Eu sou Guto_tassi
 
 - 🔭 Hoje eu trabalho com back end
-- 🌱 Estudando CSS e C
+- 🌱 Estudando HTML, CSS e C
 
 <div>
   <a href="https://github.com/Gutotassi">
