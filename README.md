@@ -1,6 +1,6 @@
 ## Olá! Eu sou Guto_tassi
 
-- 🔭 Hoje eu trabalho com back end
+- 🔭 Hoje eu sou dev full stack
 - 🌱 Estudando HTML, CSS e C
 
 <div>
